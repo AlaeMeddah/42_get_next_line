@@ -43,9 +43,9 @@ Example:
     cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 *.c
 
 The `BUFFER_SIZE` will be changed by evaluators.\
-Your code must handle all cases:\
-- `BUFFER_SIZE = 1`\
-- `BUFFER_SIZE = 9999`\
+Your code must handle all cases:
+- `BUFFER_SIZE = 1`
+- `BUFFER_SIZE = 9999`
 - `BUFFER_SIZE = 10000000`
 
 ------------------------------------------------------------------------
@@ -84,9 +84,9 @@ If the mandatory part is perfect:
 ## ✅ Summary
 
 **get_next_line** is a foundational project that deepens understanding
-of: - memory management\
-- file handling\
-- persistent state\
+of: - memory management
+- file handling
+- persistent state
 - edge cases in input processing
 
 It prepares you for future projects like **minishell**, where reading
