@@ -44,8 +44,8 @@ Example:
 
 The `BUFFER_SIZE` will be changed by evaluators.\
 Your code must handle all cases:\
-- `BUFFER_SIZE = 1`\
-- `BUFFER_SIZE = 9999`\
+- `BUFFER_SIZE = 1`
+- `BUFFER_SIZE = 9999`
 - `BUFFER_SIZE = 10000000`
 
 ------------------------------------------------------------------------
