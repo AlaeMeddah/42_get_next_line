@@ -84,7 +84,8 @@ If the mandatory part is perfect:
 ## ✅ Summary
 
 **get_next_line** is a foundational project that deepens understanding
-of: - memory management
+of:
+- memory management
 - file handling
 - persistent state
 - edge cases in input processing
